@@ -67,7 +67,13 @@ nav a:hover {
     border: 1px solid #30363d;
 }
 
+.project:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
 #contact p {
     text-align: left;
     margin: 5px 0;
+
 }
